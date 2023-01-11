@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
+  "name": "tailwind-react-native",
   "private": true,
   "scripts": {
     "start": "cd example && yarn start",
